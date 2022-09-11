@@ -32,17 +32,24 @@ We start by changing the trip duration into a datetime format.
 ## Checkout times 
 In this plot we can see that mostly users take less than 30 minutes, so we can think they bikes for short trips, maybe to work, to school or only fot shor trips instead using motor driven transportation. In the second plot, we can see that men men and women ....
 
+![Checkout](https://user-images.githubusercontent.com/104540261/189544056-5b98757e-827f-4c8b-90fb-b7f2187cfbf9.png)
 
+## Checkout Times by Gender
+
+![Checkout Times by Gender](https://user-images.githubusercontent.com/104540261/189544104-8f3c9e64-fef8-4bd9-a8a7-5d0ba91b5d13.png)
 
 
 ## Trips by Weekday 
 In this heatmap, we can observe that service is mostly used on weekdays around office hours, and all day on weekends. We have an exception on Wednesdays afternoon, but we need more information.
 
-<img width="660" alt="Trips by Weekday" src="https://user-images.githubusercontent.com/102195803/178123593-b62106f9-31c5-4f2e-8129-dc2c1e2f03f7.png">
+![Trips by Weekday per Hour](https://user-images.githubusercontent.com/104540261/189544197-d0a5a4c5-c242-4440-94aa-9474b6b50363.png)
+
 
 ## Trips by Gender and Weekday
 Here we can we can appreciate  that men and women has the same schedule  but men uses most the service than women. 
-<img width="660" alt="Trips by Gender" src="https://user-images.githubusercontent.com/102195803/178123594-8c61579b-80d9-4a3f-bf9b-4b29e97b5230.png">
+
+![Trips by Gender(Weekday per Hour)](https://user-images.githubusercontent.com/104540261/189544272-f7feb388-206a-459f-a1d1-fac93b4576cc.png)
+
 
 ## User Trips by Type and Gender 
 This heatmap show us mostly users are Subscribers, i.e, users that prefers to  pay a perdiodical fee. This is a very interesting point, because suscription  is  a regular income to the bussiness. Customers could be ocasional users o tourists. The pie chart show us the proportion of Subscribers versus Customers. A opportunity to engage future subscribers!
