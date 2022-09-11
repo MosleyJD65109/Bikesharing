@@ -60,11 +60,18 @@ This heatmap show us mostly users are Subscribers, i.e, users that prefers to  p
 # Summary 
 Taking the experience of NYC bikesharing service may  give us a light about how atractive and affordable is this growing industry. It´ s a healthy, non contaminant, cheap and a fun way of transportation, so it´'s not a far-fetched idea that a bikesharing service like Citi Bike becomes successful in a metroplolitan area as  Des Moines. Althought there are very different cities in size, population, even weather, the fact is that Des Moines is beautiful city  that could be enriched  with a bikesharing services. 
 
-Aditional to this information, I would propose two aditional plots to help explore the target maket in Des moins
-  1. Users by Age.
+Aditional to this information, I would propose aditional data be collected to evaluate elevation changes. I would expect to see a correlation between low elevation changes with starting points and ending points and that of bike utilization. If Des Moines is as flat as New York City I would expect the bike usage to be similar. Bike share programs do not fair as well in hilly cities as they do in flat cities.
+  1. Bike Utilization.
   
-   <img width="660" alt="Users per age" src="https://user-images.githubusercontent.com/102195803/177906484-6fb79a03-86ff-45f1-a336-9439a29cdf6e.png">
-  2. Usertypes by Gender 
+  ![Bike Utilization](https://user-images.githubusercontent.com/104540261/189545032-5331137e-6d23-45af-b6f3-1fac390dcda4.png)
+
+  2. Tope Starting Locations
   
-  <img width="660" alt="Aditional plots" src="https://user-images.githubusercontent.com/102195803/178115981-08479914-d1b6-4812-ace0-7ebf14bfd17e.png">
+  ![Top Starting locations](https://user-images.githubusercontent.com/104540261/189545065-fd1a42de-49eb-4e86-af0c-2f959c42de3a.png)
+  
+  2. Tope Ending Locations
+  
+  ![Top Ending Locations](https://user-images.githubusercontent.com/104540261/189545110-086e5f88-09a9-4c2e-9a02-3c5b221c9242.png)
+
+
 
