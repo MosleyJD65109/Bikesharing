@@ -54,7 +54,8 @@ Here we can we can appreciate  that men and women has the same schedule  but men
 ## User Trips by Type and Gender 
 This heatmap show us mostly users are Subscribers, i.e, users that prefers to  pay a perdiodical fee. This is a very interesting point, because suscription  is  a regular income to the bussiness. Customers could be ocasional users o tourists. The pie chart show us the proportion of Subscribers versus Customers. A opportunity to engage future subscribers!
 
-<img width="660" alt="UserTrips" src="https://user-images.githubusercontent.com/102195803/178123602-a073a6eb-347a-48ea-81f8-b649b3c0cebc.png">
+![Trips by Gender by Weekday](https://user-images.githubusercontent.com/104540261/189544570-93959601-7758-4e32-a01b-ff9c23e4f70e.png)
+
 
 # Summary 
 Taking the experience of NYC bikesharing service may  give us a light about how atractive and affordable is this growing industry. It´ s a healthy, non contaminant, cheap and a fun way of transportation, so it´'s not a far-fetched idea that a bikesharing service like Citi Bike becomes successful in a metroplolitan area as  Des Moines. Althought there are very different cities in size, population, even weather, the fact is that Des Moines is beautiful city  that could be enriched  with a bikesharing services. 
