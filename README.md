@@ -23,10 +23,11 @@ Althought Des Moines is not a large and dinamic city as New York City, its data 
  
 To answer this questions, I analized the data with Tableau, taking advantage of its ploting options, combining the results and presented it  as a Tableau Story. 
 
-## NYC Citi Bikes Start Locations
-This map show us the station points distribution in NYC, where we can see that the most popular stations are near points of interest, office buildings, school, etc.
+## Cleaning the DataFrame
+We start by changing the trip duration into a datetime format.
 
-<img width="660" alt="NYC CitiBikeStation" src="https://user-images.githubusercontent.com/102195803/178123585-438653c2-cd38-495f-8612-2b898e70eeb5.png">
+![clean data frame](https://user-images.githubusercontent.com/104540261/189543335-f75bbeb7-0928-4ec3-ab77-1058a9d19f0c.png)
+
 
 ## Checkout times 
 In this plot we can see that mostly users take less than 30 minutes, so we can think they bikes for short trips, maybe to work, to school or only fot shor trips instead using motor driven transportation. In the second plot, we can see that men men and women ....
