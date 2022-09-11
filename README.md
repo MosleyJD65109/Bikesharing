@@ -65,11 +65,11 @@ Aditional to this information, I would propose aditional data be collected to ev
   
   ![Bike Utilization](https://user-images.githubusercontent.com/104540261/189545032-5331137e-6d23-45af-b6f3-1fac390dcda4.png)
 
-  2. Tope Starting Locations
+  2. Top Starting Locations
   
   ![Top Starting locations](https://user-images.githubusercontent.com/104540261/189545065-fd1a42de-49eb-4e86-af0c-2f959c42de3a.png)
   
-  2. Tope Ending Locations
+  2. Top Ending Locations
   
   ![Top Ending Locations](https://user-images.githubusercontent.com/104540261/189545110-086e5f88-09a9-4c2e-9a02-3c5b221c9242.png)
 
