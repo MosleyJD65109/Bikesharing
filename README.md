@@ -32,7 +32,8 @@ We start by changing the trip duration into a datetime format.
 ## Checkout times 
 In this plot we can see that mostly users take less than 30 minutes, so we can think they bikes for short trips, maybe to work, to school or only fot shor trips instead using motor driven transportation. In the second plot, we can see that men men and women ....
 
-<img width="660" alt="Checkouttimes" src="https://user-images.githubusercontent.com/102195803/178123589-493b224c-3114-4254-9347-aa81989a3510.png">
+
+
 
 ## Trips by Weekday 
 In this heatmap, we can observe that service is mostly used on weekdays around office hours, and all day on weekends. We have an exception on Wednesdays afternoon, but we need more information.
